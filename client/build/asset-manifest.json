@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a5247cd.css",
+    "main.js": "/static/js/main.c0a4bd4a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/first-s.png": "/static/media/first-s.68ac36f4d31a9959e4a1.png",
+    "static/media/fourth-s.png": "/static/media/fourth-s.38e346f8381725406e84.png",
+    "static/media/second-s.png": "/static/media/second-s.945c02a2f73f94ff1552.png",
+    "static/media/third-s.png": "/static/media/third-s.d914c00de2a8e6ca0cf1.png",
+    "static/media/login-img.png": "/static/media/login-img.15a454ea6a205a29e9cd.png",
+    "static/media/bg-common.jpg": "/static/media/bg-common.281eb330927ed1cbed0e.jpg",
+    "static/media/besan-laddoo.jpg": "/static/media/besan-laddoo.71d4fab4187f2510028a.jpg",
+    "static/media/badam-barfi.jpg": "/static/media/badam-barfi.ea474953f452ff39bcc3.jpg",
+    "static/media/payment.jpg": "/static/media/payment.6a37ee5f01df76230695.jpg",
+    "static/media/sweet-plate.jpg": "/static/media/sweet-plate.0fe5425a86cd1f5b7132.jpg",
+    "index.html": "/index.html",
+    "main.4a5247cd.css.map": "/static/css/main.4a5247cd.css.map",
+    "main.c0a4bd4a.js.map": "/static/js/main.c0a4bd4a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5247cd.css",
+    "static/js/main.c0a4bd4a.js"
+  ]
+}
